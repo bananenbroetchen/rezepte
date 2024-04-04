@@ -1,4 +1,4 @@
-# # Spaghetti aglio e olio con peperoncino
+# Spaghetti aglio e olio con peperoncino
 
 ### **Vorwort**
 
