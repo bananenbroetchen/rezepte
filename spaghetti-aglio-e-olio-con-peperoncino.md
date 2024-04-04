@@ -6,11 +6,13 @@ Die Idee dieses Rezepts ist es, das Olivenöl durch die Stärke im Nudelwasser m
 
 ### Zutaten:
 
-- Spaghetti
-- Aglio (Knoblauch)
-- Olio (Olivenöl)
-- Peperoncino (Chilis)
-- (Glattblättrige) Petersilie (schmeckt leckerer)
+Für 10 Person
+
+* Spaghetti 2000g (wenn hungrig 300g)
+* Aglio (Knoblauch) 20-30 Zehen (nach Geschmack)
+Olio (Olivenöl) nicht zu wenig
+* Peperoncino (Chilis)
+* (Glattblättrige) Petersilie (schmeckt leckerer)
 
 ### Zubereitung:
 
