@@ -1,4 +1,4 @@
-# Cashewmozzarella
+# Cashew Mozzarella
 Rezept von Surena
 
 ## Zutaten:
