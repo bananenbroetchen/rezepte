@@ -1,10 +1,10 @@
-# **Spaghetti aglio e olio con peperoncino**
-
-### **Vorwort**
+# Spaghetti aglio e olio con peperoncino
+von Häcker (cccb)
+### Vorwort
 
 Die Idee dieses Rezepts ist es, das Olivenöl durch die Stärke im Nudelwasser mit diesem zu emulgieren. Dadurch entsteht eine wunderschöne Sauce, die sich toll an die Nudeln anklebt und diese komplett mit Geschmack versorgt. Die Petersilie poppt dann so richtig und macht das ganze frisch und knackig. Chilis nach Geschmack. Ich mag es schärfer, aber jeder ist seines glückes Schmied — Häcker
 
-### **Zutaten:**
+### Zutaten:
 
 - Spaghetti
 - Aglio (Knoblauch)
@@ -12,7 +12,7 @@ Die Idee dieses Rezepts ist es, das Olivenöl durch die Stärke im Nudelwasser m
 - Peperoncino (Chilis)
 - (Glattblättrige) Petersilie (schmeckt leckerer)
 
-### **Zubereitung:**
+### Zubereitung:
 
 Den Knoblauch und die Chilis klein schneiden. Von der Petersilie die Stiele klein schneiden.
 
