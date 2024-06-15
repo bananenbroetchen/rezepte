@@ -1,10 +1,10 @@
 # Schnelles Rezept für Glasnudeln
-*Für 4 Personen*
+**Für 4 Personen**
 ## Zutaten:
-- 15-20 Blatt Reispapier 
+- 15-20 Blätter Reispapier 
 ### Für die Füllung:
 - 5 Blätter Eisbergsalat
-- 2 Paprika (entweder Spitz- oder normale Paprika)
+- 2 Paprikas (entweder Spitz- oder normale Paprika)
 - 1 Salatgurke
 - 150-200g Glasnudeln
 - 400g Tofu
@@ -13,7 +13,7 @@
 - 6 EL Sojasauce
 - 2 EL Zucker 
 - 2 EL Kochwein
-- 2 EL sesamöl
+- 2 EL Sesamöl 
 - 1 EL Stärke (z.B. Maisstärke)
 - 2 EL Sesam
 
@@ -24,6 +24,6 @@ Die Glasnudeln mit heißem Wasser übergießen und für 4 min ziehen lassen. Dan
 
 Als letztes heißes Wasser in einen großen, tiefen Teller geben und die Reispapierblätter für 30 Sekunden einweichen. Mit den anderen Zutaten befüllen und genießen.
 
-Rezept von Marek.
+*Rezept von Marek.*
 Inspiration von diesem Reddit-Post:
 https://www.reddit.com/r/keinstresskochen/s/wBFk0Fhg6X
