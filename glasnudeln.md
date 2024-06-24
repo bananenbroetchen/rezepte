@@ -1,4 +1,4 @@
-# Schnelles Rezept für Glasnudeln
+# Schnelles Rezept für Sommerrollen
 **Für 4 Personen**
 ## Zutaten:
 - 15-20 Blätter Reispapier 
