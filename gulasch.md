@@ -28,19 +28,15 @@
 ## Zutaten
 
 * 160g Sojaschnetzel
-* Würze für Brühe ( 0,4l Gemüsebrühe, Paprika, Salz, Pfeffer, Majoran, granulierter Knoblauch)
-* evtl. 40g Tomatenmark + 4g Zucker mit zum Anbraten
-* 300 g Paprika mix TK
-* 320 g Kartoffeln frisch
-* 160 ml passierte Tomaten
-* 160 ml Tomaten in Stücken
-* 100g Karotten gewürfelt TK
+* 50g Tomatenmark
+* 400 g Paprika
+* 320 g Kartoffeln
+* 350 ml passierte Tomaten
+* 100g Karotten gewürfelt
 * 80ml Gemüsebrühe
-* Paprika edelsüss
-* Paprika rosenscharf
 * Pfeffer schwarz
-* 4g Knoblauch TK
-* 100g Zwiebeln gewürfelt TK
+* 2 Zehen Knoblauch
+* 1 große Zwiebel gewürfelt
 * Majoran
 * Thymian
 * Oregano
