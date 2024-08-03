@@ -1,8 +1,5 @@
 # Gulasch
-
-100 Portionen Gulasch
-
-## Zutaten
+## Zutaten für 100 Portionen
 
 * 4Kg Sojaschnetzel
 * Würze für Brühe (10l Gemüsebrühe, Paprika, Salz, Pfeffer, Majoran, granulierter Knoblauch)
@@ -23,9 +20,7 @@
 * Thymian
 * Oregano
 
-4 Portionen Gulasch
-
-## Zutaten
+## Zutaten für 4 Portionen
 
 * 160g Sojaschnetzel
 * 50g Tomatenmark
