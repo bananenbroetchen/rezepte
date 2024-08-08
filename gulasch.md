@@ -18,7 +18,7 @@ abgewandelt von murmeldin
 
 ## Anleitung für 4 Portionen
 * Die Kartoffeln schälen
-* Das Sojageschnetzelte 10 Minuten in kochendes Wasser einlegen
+* Das Sojageschnetzelte 20 Minuten in kochendes Wasser einlegen (auf ~100g geschnetzeltes kommen 200 ml Wasser)
 * Währenddessen Kartoffeln, Paprika, Kartoffeln, Zucchini und Karotten in kleine Stücke schneiden
 * Das Sojageschnetzelte in einem Topf mit Tomatenmark anbraten, mit Rotwein ablöschen
 * Nacheinander Zwiebeln, Tomate, Knoblauch, Karotten und Paprika dazu geben und langsam schmoren lassen
