@@ -5,7 +5,7 @@ abgewandelt von murmeldin
 * 50g Tomatenmark
 * 400 g Paprika
 * 320 g Kartoffeln
-* 100 g Zucchini
+* 100 g Zucchini (~1/3-1/4)
 * 350 ml passierte Tomaten
 * 100g Karotten gewürfelt
 * 80ml Gemüsebrühe
