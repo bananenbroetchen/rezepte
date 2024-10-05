@@ -1,5 +1,5 @@
 # Rotes Kokos Gemüse Curry
-
+aus dem Buch "Vegan für Faule" (GU Vegan), leicht abgeändert von murmeldin
 Für 4 Personen
 ## Zutaten:
 - 2 rote Paprikaschoten
