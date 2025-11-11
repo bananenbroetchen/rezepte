@@ -1,5 +1,9 @@
 # rezepte
 
+## Dieses Repo ist auf Codeberg umgezogen :) https://codeberg.org/murmeldin/rezepte
+
+---
+
 **Recipes I have collected over the years, mostly vegan. Feel free to try them out!**
 
 **You can also find most of these recipes on my blog:** [https://marekkrug.de/categories/rezepte/](https://marekkrug.de/categories/rezepte/)
